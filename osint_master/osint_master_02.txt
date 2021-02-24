@@ -36,11 +36,75 @@ https://www.wunderground.com/
 https://www.weatheronline.pl/
 https://dane.imgw.pl/#dane-archiwalne
 -----
+Fake news debunker by InVID & WeVerify
+https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
+-----
 -----
 PRACA Z MAPAMI
 -----
+Google Maps
 https://www.google.com/maps
+Google Earth Pro
 https://www.google.com/intl/pl/earth/
+-----
+Bing Maps
+https://www.bing.com/maps/
+mapy Yandex
+https://yandex.ru/maps/213/moscow/?ll=37.622504%2C55.753215&z=10
+-----
+ArcGIS
+https://www.arcgis.com/home/webmap/viewer.html
+https://www.arcgis.com/home/webmap/viewer.html?layers=10df2279f9684e4a9f6a7f08febac2a9
+
+Wikimapia
+http://wikimapia.org/#lang=pl&lat=50.283300&lon=21.416700&z=12&m=w
+OpenStreetMap
+https://www.openstreetmap.org/#map=7/52.018/19.137
+Zoom Earth
+https://zoom.earth/
+-----
+https://wigle.net/
+-----
+GeoPortal.gov.pl
+https://mapy.geoportal.gov.pl/imap/Imgp_2.html
+
+https://peakfinder.org/
+-----
+https://www.suncalc.org/#/40.1789,-3.5156,3/2021.02.24/21:09/1/3
+https://eleif.net/photo_measure.html
+-----
+FlightRadar24
+https://www.flightradar24.com/50.29,21.45/6
+PlaneFinder
+https://planefinder.net/
+eSky radar
+https://www.esky.pl/radar
+-----
+MarineTraffic
+https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4
+VesselFinder
+https://www.vesselfinder.com/
+Maritime Connector
+http://maritime-connector.com/
+
+https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1
+-----
+Portal Pasażera
+https://portalpasazera.pl/MapaOL
+OpenRailwayMap
+https://www.openrailwaymap.org
+Baza Kolejowa
+https://www.bazakolejowa.pl/
+-----
+DroneRadar
+https://droneradar.eu/mapa
+TRAVELwithDRONE
+https://travelwithdrone.com/
+dronestagram
+https://www.dronestagr.am/
+-----
+-----
+NARZĘDZIA GRAFICZNEGO WYSZUKIWANIA
 -----
 -----
 
