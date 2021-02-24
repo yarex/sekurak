@@ -1,0 +1,46 @@
+-----
+GEOLOKALIZACJA
+-----
+Metadane:
+* IPTC
+* EXIF
+* XMP
+
+4C: Caption, Creator, Copyright, Credit
+https://iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/
+-----
+https://vickymochama.medium.com/how-dare-you-kim-kardashians-40th-birthday-an-investigation-766dc879eb23
+https://sekurak.pl/osint-jak-mozna-bylo-namierzyc-lokalizacje-pana-mcafee-na-podstawie-jednego-zdjecia-z-ochroniarzami/
+-----
+https://yandex.ru/images/
+https://www.bing.com/
+https://www.google.pl/imghp
+-----
+RevEye 
+https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf
+https://addons.mozilla.org/pl/firefox/addon/reveye-ris/
+
+Search by image
+https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci
+https://addons.mozilla.org/pl/firefox/addon/search_by_image/
+-----
+https://forum.duolingo.com/comment/33070800
+
+Google Lens
+
+GeoGuessr
+https://www.geoguessr.com/
+https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+-----
+https://www.wunderground.com/
+https://www.weatheronline.pl/
+https://dane.imgw.pl/#dane-archiwalne
+-----
+-----
+PRACA Z MAPAMI
+-----
+https://www.google.com/maps
+https://www.google.com/intl/pl/earth/
+-----
+-----
+
