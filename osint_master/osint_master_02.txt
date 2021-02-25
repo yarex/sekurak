@@ -106,5 +106,62 @@ https://www.dronestagr.am/
 -----
 NARZĘDZIA GRAFICZNEGO WYSZUKIWANIA
 -----
------
+Facebook
+https://www.facebook.com/places
 
+Twitter
+https://sekurak.pl/cwierkajac-w-czasie-i-przestrzeni-czyli-analiza-geolokalizacji-wpisow-na-twitterze/
+-----
+Snapchat
+https://map.snapchat.com/
+https://osintcurio.us/2020/04/13/using-snapchat-for-osint-10-minute-tip/
+-----
+GeoHack
+https://geohack.toolforge.org/geohack.php?language=pl&params=52.2307556_N_21.0107223_E
+
+Flickr
+https://www.flickr.com/nearby/52.2307556,21.0107223
+-----
+Kamery internetowe / kamerki samochodowe:
+https://www.mapillary.com/app/
+http://www.insecam.org/
+https://www.webcamera.pl/
+https://www.worldcam.pl/
+
+Inne kamery:
+https://www.otwartezrodla.pl/
+-----
+Wyszukiwanie twarzy danej osoby:
+Google
+http://www.facesaerch.com/
+https://www.google.com/search?q=OSOBA&tbs=itp%3Aface&tbm=isch
+
+Yandex
+https://yandex.com/images/search?text=mrbean&type=face
+-----
+Wyszukiwanie twarzy:
+PimEyes
+https://pimeyes.com/en
+PicTriev
+http://pictriev.com/
+
+https://www.how-old.net/#
+-----
+Analiza tłumów - weryfikacja fake newsów:
+MapChecking
+https://www.mapchecking.com/#bAAAAQF38UEKxGKhBAACAQfv8UEKwF6hB
+Crowd Size Estimator
+https://www.arcgis.com/apps/webappviewer/index.html?id=c6d0a998bffd4ace9e891fd75397b936
+
+Analiza matematyczna + Python:
+https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/
+
+https://firstdraftnews.org/en/education/curriculum-resource/2-assessment-observation/
+-----
+-----
+POSZUKIWANIE INFORMACJI WIZUALNYCH 
+DO ATAKU SOCJOTECHNICZNEGO
+-----
+https://sekurak.pl/dziennikarz-wbil-sie-zdalnie-na-zamkniete-spotkanie-ministrow-obrony-krajow-eu-jak-to-mozliwe-zobaczcie-te-niewinna-fotke/
+-----
+-----
