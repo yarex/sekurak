@@ -162,6 +162,47 @@ https://firstdraftnews.org/en/education/curriculum-resource/2-assessment-observa
 POSZUKIWANIE INFORMACJI WIZUALNYCH 
 DO ATAKU SOCJOTECHNICZNEGO
 -----
+Street View + zdjęcia z okolicy
+-----
 https://sekurak.pl/dziennikarz-wbil-sie-zdalnie-na-zamkniete-spotkanie-ministrow-obrony-krajow-eu-jak-to-mozliwe-zobaczcie-te-niewinna-fotke/
+-----
+OSINT, Pretekst, Atak socjotechniczny
+-----
+-----
+JAK CHRONIĆ SIĘ PRZED OSINT-EM
+-----
+https://sekurak.pl/sherlock-i-doktor-whatsmyname-wyszukiwanie-profili-po-nazwie-uzytkownika-osint-hints/
+https://haveibeenpwned.com/
+-----
+https://www.youtube.com/watch?v=YLWmjpPoJHk
+-----
+https://backgroundchecks.org/justdeleteme/
+https://justdeleteme.xyz/
+https://inteltechniques.com/data/workbook.pdf
+
+https://www.deseat.me/
+
+https://sekurak.pl/jak-zamazac-swoje-mieszkanie-dom-w-google-street-view/
+-----
+ExifTool
+https://exiftool.org/
+
+cmd:
+> exiftool -TagsFromFile src.jpg dest.jpg
+GUI: 
+Export/import > Copy metadata from single file
+-----
+AnalogExif
+https://sourceforge.net/projects/analogexif/
+theXfier
+https://www.thexifer.net/
+-----
+Canary tokens
+https://canarytokens.org/generate
+-----
+Krótkie linki
+https://sekurak.pl/przekierowania-z-krotkich-linkow-i-jak-je-znalezc-osint-hints/
+-----
+https://www.stolencamerafinder.com/
 -----
 -----
